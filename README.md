@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm majid ghasemy</h1>
 <h3 align="center">A smiling mobile developer from Iran</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=smilingmajid&label=Profile%20views&color=0e75b6&style=flat" alt="smilingmajid" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smilingmajid" alt="smilingmajid" /></a> </p>
-
 - 🔭 I’m currently working on [todolisapp (GetX,Mvc, Hive)](https://github.com/smilingmajid/todolistapp)
 
 - 🌱 I’m currently learning **Clean Architecture , TDD**
